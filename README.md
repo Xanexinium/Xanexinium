@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xanexinium
 - 👀 I’m interested in mobile applications
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me -coming soon
 
