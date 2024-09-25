@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Xanexinium
-- 👀 I’m interested in mobile applications
-- 🌱 I’m currently learning Symfony
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me -coming soon
+- 👀 I’m interested in web applications security
+- 🌱 I’m constantly learning
 
 <!---
 Xanexinium/Xanexinium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
