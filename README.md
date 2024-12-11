@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Xanexinium
-- 👀 I’m interested in web applications security
 - 🌱 I’m constantly learning
 
 <!---
