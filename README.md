@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Xanexinium
-- 🌱 Growing web applications
-- 🌱 Cybersecurity intelligence and penetration testing
-- 🌱 Information technology consulting
+Xanexinium | Full-Stack Architect & Security Researcher
+
+🚀 Building: Edge-optimized web applications that scale.
+⚔️ Researching: Penetration testing and security intelligence.
+🧠 Consulting: High-performance architecture for the modern web.
+
+Currently architecting atomic, scalable systems that respect both the user's time and their data.
 
 
 <!---
