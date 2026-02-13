@@ -1,11 +1,14 @@
-Xanexinium | Full-Stack Architect & Security Researcher
+### **Full-Stack Architect & Security Researcher**
 
-🚀 Building: Edge-optimized web applications that scale.
-⚔️ Researching: Penetration testing and security intelligence.
-🧠 Consulting: High-performance architecture for the modern web.
+---
 
-Currently architecting atomic, scalable systems that respect both the user's time and their data.
+* **Building:** Edge-optimized web applications that scale.
+* **Researching:** Penetration testing and security intelligence.
+* **Consulting:** High-performance architecture for the modern web.
 
+--- 
+
+Currently architecting **atomic, scalable systems** that respect both the user's time and their data.
 
 <!---
 Xanexinium/Xanexinium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
